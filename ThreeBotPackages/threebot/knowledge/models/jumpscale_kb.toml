@@ -1,0 +1,11 @@
+@url = jumpscale.kb.page
+title** = "" (S)
+page_3bot_url = "" (S)
+content = "" (S)
+
+
+@url = jumpscale.kb.website
+name** = "" (S)
+git_repo_url** = "" (S)
+website_3bot_url = "" (S)
+pages = (LO) !jumpscale.kb.page
