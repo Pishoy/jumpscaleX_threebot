@@ -14,5 +14,14 @@ class kb(j.baseclasses.threebot_actor):
     def website_unpublish(self, user_session=None):
         pass
 
+    def _publish_static_site(self):
+        pass
+
+    def _publish_hugo_site(self):
+        pass
+
+    def _publish_blog(self):
+        pass
+
     def search_3bots(self, user_session=None):
         pass
