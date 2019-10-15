@@ -6,7 +6,7 @@
       class="form-control"
       id="inputName"
       aria-describedby="inputName"
-      placeholder="Enter email" />
+      placeholder="Enter website name" />
     <small id="inputName" class="form-text text-muted">Your website name</small>
   </div>
 
