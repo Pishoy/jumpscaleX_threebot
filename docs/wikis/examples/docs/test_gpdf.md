@@ -11,9 +11,9 @@ You can go to this document:
 ## Presentations
 
 You can go to this presentation:
-!!!gpdf("https://docs.google.com/presentation/d/1aVa_P1t_RGPT82XemkJWgiN-fP4XSoQfuEbiafhMN5w/")
+!!!gpdf("https://docs.google.com/presentation/d/15I66JXHkRrYtCKaZSA0gNQEkaD4gIeNPsp7j5rrHcuU")
 
 
 ## Sheets
 You can go to this spreadsheet:
-!!!gpdf("https://docs.google.com/spreadsheets/d/1KbtQtjQtTJn2sLkJ0qkmFn7CpPJqjgIsHl28Nf07AnM/edit")
+!!!gpdf("https://docs.google.com/spreadsheets/d/1Xji5IvzpaEI5m9HiwJ1QAcOlA0ThEWUhuwDGrZSfdqw")
