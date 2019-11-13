@@ -8,18 +8,18 @@ trip = "1Ir0gC0_kWIykpfwKX7XdPG9akTWfacfeQNyNhT1XsbI"
 
 [[slideshow]]
 presentation =  "business"
-slide = ":"
+slide = "1,2:3"
 
 [[slideshow]]
 presentation =  "trip"
-slide = "1:"
+slide = ":"
 
 [[slideshow]]
 presentation =  "business"
-slide = "1,8:9"
+slide = ":3"
 
 [[slideshow]]
 presentation =  "business"
-slide = "1"
+slide = "18:,21"
 ```
 
